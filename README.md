@@ -70,7 +70,7 @@ python 01_hello_world.py
 pip install pillow
 
 
-
+```
 Notes
 
 Each project is independent; you can run them separately.
